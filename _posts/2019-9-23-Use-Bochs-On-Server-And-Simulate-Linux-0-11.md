@@ -23,11 +23,11 @@ title: Use Bochs On Server And Simulate Linux 0.11
 
 这是[`linux-0.11-lab`](https://github.com/tinyclub/linux-0.11-lab#hack-linux-011-on-linux)的`bochsrc`
 
-![1.png](../pic/Use_Bochs_On_Server_And_Simulate_Linux_0_11/1.png)
+![1.png](https://raw.githubusercontent.com/endinferno/article/gh-pages/pic/Use_Bochs_On_Server_And_Simulate_Linux_0_11/1.png)
 
 这是我们的`bochsrc`
 
-![2.png](../pic/Use_Bochs_On_Server_And_Simulate_Linux_0_11/2.png)
+![2.png](https://raw.githubusercontent.com/endinferno/article/gh-pages/pic/Use_Bochs_On_Server_And_Simulate_Linux_0_11/2.png)
 
 最重要的就是最后一句`display_library: term`
 
@@ -43,16 +43,17 @@ title: Use Bochs On Server And Simulate Linux 0.11
 
 显示
 
-![3.png](../pic/Use_Bochs_On_Server_And_Simulate_Linux_0_11/3.png)
+![3.png](https://raw.githubusercontent.com/endinferno/article/gh-pages/pic/Use_Bochs_On_Server_And_Simulate_Linux_0_11/3.png)
 
 输入6
 
 显示
 
-![4.png](../pic/Use_Bochs_On_Server_And_Simulate_Linux_0_11/4.png)
+![4.png](https://raw.githubusercontent.com/endinferno/article/gh-pages/pic/Use_Bochs_On_Server_And_Simulate_Linux_0_11/4.png)
 
 这样子就成功了，在服务器端使用`bochs`模拟`Linux-0.11`
 
-![5.ong](../pic/Use_Bochs_On_Server_And_Simulate_Linux_0_11/5.png)
+![5.ong](https://raw.githubusercontent.com/endinferno/article/gh-pages/pic/Use_Bochs_On_Server_And_Simulate_Linux_0_11/5.png)
 
 可以看到里面有`as86`和`ld86`等工具，说明已经成功了，可以在其上做测试和模拟，不用担心环境崩溃
+
